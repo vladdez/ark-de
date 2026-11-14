@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+*.sqlite
+*.sqlite-*
+*.db
+*.zip
+.env*
+messages*.html
+private/
+node_modules/

@@ -1,0 +1,19 @@
+# Ark DE
+
+Russian-language editorial knowledge base about emigration from Russia to Germany. Initial selection: 10 articles based on 20 messages, NOT all 211,768 archived messages. Community observations are historical, not verified current law. Source pages contain anonymized paraphrases, not original transcripts.
+
+## Articles
+- [Виза, ВНЖ и Blue Card: с чего начать вопрос](https://vladdez.github.io/ark-de/visa-and-residence/): Как описать свой статус, чтобы получить ответ именно для вашей ситуации.
+- [Жильё и Anmeldung: что уточнить заранее](https://vladdez.github.io/ark-de/housing-and-anmeldung/): Договор аренды, подтверждение заселения и регистрация — вопросы, которые лучше разделить.
+- [Банковский счёт: как сравнивать чужой опыт](https://vladdez.github.io/ark-de/bank-account/): Какие сведения нужны, чтобы история открытия счёта была полезна именно вам.
+- [Медицинская страховка: даты и подтверждения](https://vladdez.github.io/ark-de/health-insurance/): Что согласовать со страховой компанией и работодателем до начала работы.
+- [Признание диплома: почему одного anabin мало](https://vladdez.github.io/ark-de/qualification-recognition/): Разделяем высшее образование, профессиональную квалификацию и допуск к профессии.
+- [Поиск работы: язык, каналы и актуальность вакансии](https://vladdez.github.io/ark-de/job-search/): Как использовать рекомендации из чата, не принимая старые объявления за действующие предложения.
+- [Немецкий и интеграционные курсы: четыре разных вопроса](https://vladdez.github.io/ark-de/german-courses/): Допуск, оплата, расписание и наличие места требуют отдельных ответов.
+- [Воссоединение семьи: сначала определить основание](https://vladdez.github.io/ark-de/family-reunification/): Почему маршрут основного заявителя и статус каждого члена семьи имеют значение.
+- [Гражданство и Einbürgerungstest: не смешивать сроки](https://vladdez.github.io/ark-de/citizenship-and-test/): Экзамен, результат экзамена и рассмотрение заявления — разные этапы.
+- [Переводы и апостиль: начинать с получателя документа](https://vladdez.github.io/ark-de/translations-and-apostille/): Как избежать лишних переводов и не перенести чужой порядок заверения на свой случай.
+
+## Method and sources
+- https://vladdez.github.io/ark-de/about/
+- https://vladdez.github.io/ark-de/sources/

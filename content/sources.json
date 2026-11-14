@@ -1,0 +1,182 @@
+[
+  {
+    "message_id": 159508,
+    "source_file": "messages128.html",
+    "source_anchor": "message159508",
+    "text_sha256": "0c3335c88b0d6ec6669007c0eb91d92c88b9ad3cc88c38972fc0b034be9510e7",
+    "summary": "Уточнение терминов: в переписке словом «блю карта» называют и визу, и карточку ВНЖ; перед ответом требуется понять, какой документ имеется в виду.",
+    "date": "2023-12-08",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 219108,
+    "source_file": "messages183.html",
+    "source_anchor": "message219108",
+    "text_sha256": "5bc3bbc1e4cbe341da0e21914cd441ec4fa19f630c3ccdee3e5bb6e04f52b95f",
+    "summary": "Обсуждение разницы между основанием пребывания и подтверждающими его документами. Пересказ темы сообщения, а не юридическое подтверждение всех его формулировок.",
+    "date": "2025-04-03",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 144481,
+    "source_file": "messages114.html",
+    "source_anchor": "message144481",
+    "text_sha256": "3971947569200f096fbfbef4de97252efc907978b1617aab8d95188309642211",
+    "summary": "Вопрос о регистрации по месту жительства при субаренде, если не предоставляют Wohnungsgeberbestätigung.",
+    "date": "2023-09-12",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 192129,
+    "source_file": "messages158.html",
+    "source_anchor": "message192129",
+    "text_sha256": "a0daefbe4077384c01d969e565e0422f2b6afa4c644ce9b4c41e27588decc00e",
+    "summary": "Вопрос о том, кто выдаёт подтверждение заселения для регистрации членов семьи в арендованной квартире.",
+    "date": "2024-07-21",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 254543,
+    "source_file": "messages212.html",
+    "source_anchor": "message254543",
+    "text_sha256": "e5cf62296e09ca2a960bad6226bb56f5687eb7b04d3a8026618ac51cbb0e5a15",
+    "summary": "Участник предлагает уточнить условия открытия счёта в другом банке или отделении. Успешный результат этим сообщением не подтверждён.",
+    "date": "2026-11-10",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 31614,
+    "source_file": "messages23.html",
+    "source_anchor": "message31614",
+    "text_sha256": "15998029c643585fc5a43ccdeef20e0f7c7b30584e0b90a3ba8c4a8880a535dc",
+    "summary": "Вопрос о способе оплаты аренды до открытия банковского счёта, пока отсутствует часть местных документов.",
+    "date": "2022-07-07",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 160767,
+    "source_file": "messages129.html",
+    "source_anchor": "message160767",
+    "text_sha256": "2e9d5e0e339fbf3000b3c5ec99270f1d91703135ca78f298613a733137995730",
+    "summary": "Предложение уточнить вид страхования и обсудить добровольное членство в государственной страховой системе с консультантом.",
+    "date": "2023-12-16",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 17516,
+    "source_file": "messages13.html",
+    "source_anchor": "message17516",
+    "text_sha256": "48587a45efcc6f1b5d8468f24f98287d7d94246fec0ac6c1f6939564ffd90733",
+    "summary": "Вопрос о подтверждении членства в страховой кассе, которое просит работодатель, и о начале страхового покрытия.",
+    "date": "2022-05-26",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 3324,
+    "source_file": "messages2.html",
+    "source_anchor": "message3324",
+    "text_sha256": "2b03bc8a372b11fb13ce7e45e6e5568f2e14e759f66719af5374c541741afa1d",
+    "summary": "Личный опыт: наличие диплома в anabin не исключило необходимости признания для регулируемой профессии. Детали пакета документов не обобщаются на другие случаи.",
+    "date": "2022-04-15",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 184791,
+    "source_file": "messages151.html",
+    "source_anchor": "message184791",
+    "text_sha256": "cf44cf5267a44d021aca715c34e6021f4842a7bc5981bd15475840f0854a6892",
+    "summary": "Уточнение в ответ на совет воспользоваться anabin: исходный вопрос касался среднего профессионального, а не высшего образования.",
+    "date": "2024-05-29",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 40992,
+    "source_file": "messages31.html",
+    "source_anchor": "message40992",
+    "text_sha256": "2f716006f7396ff6e70ef9e741fb2009442c78e14a347879f4a5ad81e10ec7ee",
+    "summary": "Совет использовать локальные объявления в магазинах и кафе как дополнительный канал поиска работы.",
+    "date": "2022-08-07",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 104422,
+    "source_file": "messages78.html",
+    "source_anchor": "message104422",
+    "text_sha256": "71ea40256275b10b8f1c8761b59abc40b53e5241819e81caf354efc5760e141b",
+    "summary": "Сообщение о закрытой вакансии и личном опыте формально опубликованного предложения. Не является статистикой рынка труда.",
+    "date": "2023-02-13",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 135364,
+    "source_file": "messages106.html",
+    "source_anchor": "message135364",
+    "text_sha256": "53eb5c5d46551d8b5f0eeffca0fc803955ae90882f3afee327f487dcea525cb4",
+    "summary": "В обсуждении совмещения работы и изучения языка участник ссылается на интеграционные курсы и форму заявления BAMF.",
+    "date": "2023-07-31",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 237239,
+    "source_file": "messages198.html",
+    "source_anchor": "message237239",
+    "text_sha256": "d2d2ce03f5eb6cb17584fe8b9ef1702cf334ca595c953a1925c6828c76c5cb67",
+    "summary": "Сообщение со ссылкой на форму заявления BAMF о допуске к интеграционному курсу.",
+    "date": "2025-12-02",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 67714,
+    "source_file": "messages49.html",
+    "source_anchor": "message67714",
+    "text_sha256": "8e119f8e996959c788ce1d47eea9e722190e1536407a5a2d08f5a9f8cd590a36",
+    "summary": "Вопрос о применении воссоединения семьи к конкретному маршруту переезда на языковые курсы.",
+    "date": "2022-09-29",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 179523,
+    "source_file": "messages146.html",
+    "source_anchor": "message179523",
+    "text_sha256": "be32b9a4e4c6fdbf1192e348ba6fa72934aee9a05983c9866160ceb4e83fcd23",
+    "summary": "Обсуждение выбора между семейным и собственным рабочим основанием пребывания после трудоустройства.",
+    "date": "2024-04-08",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 206382,
+    "source_file": "messages171.html",
+    "source_anchor": "message206382",
+    "text_sha256": "18f91151a22f1523fb5d16b9a6feda4afb8f5bdacded2ea6586dc6a62604340c",
+    "summary": "Замечание о необходимости различать статистику разных процедур приобретения гражданства.",
+    "date": "2024-11-05",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 239451,
+    "source_file": "messages200.html",
+    "source_anchor": "message239451",
+    "text_sha256": "2fa3c826e2eccba8bc89a0c1dee47c601790176610a59cc008eab0a908212a26",
+    "summary": "Вопрос о сроках получения результата Einbürgerungstest и сдаче в другом регионе.",
+    "date": "2026-01-07",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 88564,
+    "source_file": "messages64.html",
+    "source_anchor": "message88564",
+    "text_sha256": "3decb9f3aa3fce9a662d0d4db3ed467fd9d189dbe31d07044cca8e6bb05dbd0c",
+    "summary": "Ответ в споре об апостиле и переводе документов для визы, со ссылкой на консульскую памятку и личным опытом.",
+    "date": "2022-11-25",
+    "type": "editorial_paraphrase"
+  },
+  {
+    "message_id": 118468,
+    "source_file": "messages90.html",
+    "source_anchor": "message118468",
+    "text_sha256": "ad58128201c2ec5d892b2755960bdc66589e8ab1226a64ba957df53ca9e88238",
+    "summary": "Мнение участника об оформлении перевода для подачи документов в другой стране; требует проверки у получателя документа.",
+    "date": "2023-05-02",
+    "type": "editorial_paraphrase"
+  }
+]
